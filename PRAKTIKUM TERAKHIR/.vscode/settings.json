@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "string.h": "c",
+        "math.h": "c",
+        "MBFIX.C": "cpp"
+    }
+}
